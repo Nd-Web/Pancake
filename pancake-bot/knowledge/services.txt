@@ -1,0 +1,16 @@
+Our Services
+
+Customer Relationship Management (CRM)
+Our core CRM platform helps you track every customer interaction in one place. Manage leads, deals, and customer profiles with a clean, intuitive interface. Features include contact management, deal pipeline tracking, task assignments, activity logging, and team collaboration tools. The CRM integrates seamlessly with your email, calendar, and communication tools so you never miss a follow-up.
+
+Marketing Automation
+Automate your marketing campaigns across email, SMS, and social media channels. Build customer segments based on behavior and demographics, create drip campaigns, A/B test subject lines and content, and measure performance with detailed analytics. Our automation engine lets you trigger personalized messages based on customer actions such as sign-ups, purchases, or inactivity. Save hours of manual work while increasing engagement rates.
+
+Sales Pipeline Management
+Visualize and optimize your entire sales process from lead to close. Drag-and-drop pipeline stages, automated deal scoring, forecast reporting, and win/loss analysis help your sales team stay organized and focused. Set up automatic reminders for follow-ups and never let a hot lead go cold. Pipeline analytics show you where deals are stalling so you can take action.
+
+Customer Support Desk
+Provide exceptional customer service with our integrated support desk. Manage tickets from email, chat, and social media in a unified inbox. Set up auto-responses, assign tickets to the right team member, track response times, and measure customer satisfaction with built-in CSAT surveys. Knowledge base integration lets you suggest relevant articles to customers before they reach an agent, reducing ticket volume.
+
+Analytics and Reporting
+Make data-driven decisions with comprehensive analytics. Track key metrics like customer acquisition cost, lifetime value, churn rate, and revenue per customer. Build custom dashboards, schedule automated reports, and share insights with your team. Our reporting engine pulls data from all modules so you see the full picture of your business performance in one place.

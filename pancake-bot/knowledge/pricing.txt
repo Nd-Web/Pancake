@@ -1,0 +1,16 @@
+Pricing Information
+
+Starter Plan - $29/month
+Ideal for individuals and small teams just getting started. Includes up to 500 contacts, 3 user seats, basic CRM features, email integration, and standard customer support. Perfect for freelancers or solopreneurs who need a lightweight solution to manage customer relationships without paying for features they won't use. This plan does not include advanced automation or custom reporting.
+
+Professional Plan - $79/month
+Designed for growing businesses that need more power and flexibility. Includes up to 5,000 contacts, 10 user seats, advanced CRM features, email and SMS integration, workflow automation, custom reporting dashboards, and priority email support. This is our most popular plan and covers the needs of most small-to-medium businesses. You also get access to our API for custom integrations.
+
+Enterprise Plan - $199/month
+Built for larger organizations with complex needs. Includes unlimited contacts, unlimited user seats, all Professional features plus dedicated account manager, phone support, custom onboarding, SSO and advanced security features, and a 99.9% uptime SLA. Enterprise customers also receive quarterly business reviews and priority feature requests. Volume discounts available for annual billing.
+
+Annual Billing Discount
+All plans offer a 20% discount when billed annually. Starter annual: $278/year, Professional annual: $758/year, Enterprise annual: $1,910/year. Annual plans are billed upfront and can be upgraded mid-cycle with prorated credit for the remaining period.
+
+Free Trial
+Every plan comes with a 14-day free trial. No credit card required to start. You get full access to all features of your chosen plan during the trial period. At the end of the trial, you can choose to subscribe or your account will revert to a limited free tier with basic features.

@@ -1,0 +1,16 @@
+Company Policies
+
+Return and Refund Policy
+We offer a 30-day return window for all physical products. Items must be in their original condition with tags attached and original packaging. To initiate a return, contact our support team with your order number and reason for return. We will provide a prepaid shipping label within 2 business days. Refunds are processed within 5-7 business days after we receive and inspect the returned item. Digital products and subscriptions are non-refundable once access has been granted, except where required by law.
+
+Shipping and Delivery Policy
+Standard domestic shipping takes 3-5 business days and costs a flat rate of $5.99. Express shipping (1-2 business days) is available for $14.99. Orders placed before 2:00 PM on business days are shipped the same day. We ship from our warehouse in Austin, TX. International shipping times and rates vary by destination and are calculated at checkout. We are not responsible for delays caused by customs processing or carrier issues.
+
+Privacy Policy
+We collect only the information necessary to provide our services, including your name, email address, phone number, and payment information. We never sell your personal data to third parties. We use industry-standard encryption to protect your data both in transit and at rest. You can request a copy of your data or ask for deletion at any time by emailing privacy@example.com. We comply with GDPR, CCPA, and other applicable data protection regulations.
+
+Terms of Service
+By using our platform, you agree to use it only for lawful purposes and in accordance with these terms. You are responsible for maintaining the security of your account credentials. We reserve the right to suspend accounts that violate our acceptable use policy, including spam, abuse, or fraudulent activity. Service modifications and price changes will be communicated 30 days in advance. Either party may terminate the agreement with 30 days written notice. These terms are governed by the laws of the State of Texas.
+
+Data Retention Policy
+We retain customer data for as long as your account is active or as needed to provide our services. Upon account deletion, we remove personal data from our active systems within 30 days, though backup copies may persist for up to 90 days. Anonymized, aggregated data may be retained indefinitely for analytics purposes. If you need immediate data deletion, contact our support team for expedited processing.
